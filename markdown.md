@@ -1,6 +1,6 @@
 # Le Markdown
 
-![Logo MarkDown](markdown.png)
+![Logo MarkDown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1024px-Markdown-mark.svg.png)
 
 -  ## Mais alors qu'est-ce que c'est !?
   
