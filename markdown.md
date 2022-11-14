@@ -2,28 +2,28 @@
 
 ![](Markdown.png)
 
-## Qu'est-ce que Markdown ?
+## What is Markdown?
 
-Créé en 2004, ce language de balisage léger permet à ses utilisateurs d'utiliser ue syntaxe plus facile et compréhensible aussi bien à la lecture qu'à l'écriture.
+Created in 2004, this lightweight markup language allows its users to use a syntax that is easier and more understandable for both reading and writing.
 
-## Les différents usages de ce language.
+## The different uses of this language.
 
-1. dans les logiciels/éditeurs de code
-2. dans les logiciels d'écriture
-3. dans les plateformes de code
+1. in software/code editors
+2. in writing software
+3. in code platforms
 4. ...
 
-## À quoi ça sert ?
+## What is it for?
 
-Markdown nous permet d'écrire en HTML sans avoir de réelles connaissances dans ce language.
+Markdown allows us to write in HTML withaout having any real knowledge in this language.
 
-## Pourquoi l'utiliser ?
+## Why use it?
 
-1. facilité d'apprentissage
-   - temps d'adaptation plutôt court
-   - facile à lire
-   - facile à écrire
-2. fait pour le web
-3. syntaxe claire
+1. ease of learning
+   - short adaptation time
+   - easy to read
+   - easy to write
+2. made for the web
+3. clear syntax
 
-[Vers la page README](README.md)
+[To the README page](README.md)
