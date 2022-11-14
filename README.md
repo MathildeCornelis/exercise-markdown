@@ -24,4 +24,10 @@ Ce repository a été crée et édité le 14 novembre 2022. Ce projet est un exe
 3. cloner le repository
 4. boilà vous pouvez travailler sur le fichier
 
+![](https://media.giphy.com/media/xUPJPBLqz475tE7HsA/giphy.gif)
+
+```
+<iframe src="https://giphy.com/embed/xUPJPBLqz475tE7HsA" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+```
+
 [Vers la page markdown](markdown.md)
