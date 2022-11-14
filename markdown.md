@@ -1,6 +1,6 @@
 # Le Markdown
 
-![Logo MarkDown](Users/edoua/Desktop/markdown.png)
+![Logo MarkDown](https://en.wikipedia.org/wiki/Markdown#/media/File:Markdown-mark.svg)
 
 -  ## Mais alors qu'est-ce que c'est !?
   
@@ -24,7 +24,7 @@
 
  3. Offrir une syntaxe facile à écrire et surtout à lire. Permettant ainsi de mettre en forme son texte sans pur autant devoir connaître l'HTML!
 
-![](/Users/edoua/Desktop/giphy.gif)
+![gifcool](https://giphy.com/gifs/Friends-friends-episode-22-tv-lrDMG46JjKiovLbkn8)
 
 echo "MarkDown is easier than HTML"
 
