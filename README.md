@@ -4,7 +4,9 @@ Dans ce repository nous expérimentons le language Markdown.
 
 ---
 
-Projet en cours
+![](README.png)
+
+Projet fini
 
 Ce repository a été crée et édité le 14 novembre 2022. Ce projet est un exercice réalisé lors de la formation [web developer junior](https://becode.org/fr/apprendre/developpeur-web-junior/) donnée par Becode.org
 

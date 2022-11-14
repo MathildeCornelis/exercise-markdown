@@ -26,6 +26,10 @@ Markdown nous permet d'écrire en HTML sans avoir de réelles connaissances dans
 2. fait pour le web
 3. syntaxe claire
 
+![](https://media.giphy.com/media/xUPJPBLqz475tE7HsA/giphy.gif)
+
+```
 <iframe src="https://giphy.com/embed/xUPJPBLqz475tE7HsA" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+```
 
 [Vers la page README](README.md)
