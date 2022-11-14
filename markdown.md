@@ -23,7 +23,7 @@
 
  3. Offrir une syntaxe facile à écrire et surtout à lire. Permettant ainsi de mettre en forme son texte sans pur autant devoir connaître l'HTML!
 
-![gifcool](giphy.gif)
+![gifcool](https://media4.giphy.com/media/lrDMG46JjKiovLbkn8/giphy.gif?cid=790b7611b03cc0433b40ff1336982b4f0f70ffa8a324eac5&rid=giphy.gif&ct=g)
 
 echo "MarkDown is easier than HTML" :ok_hand:
 
