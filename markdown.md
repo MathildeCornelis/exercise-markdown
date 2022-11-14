@@ -13,11 +13,11 @@ Il a ete creer en 2004 par [john Gruber](https://fr.wikipedia.org/wiki/John_Grub
 ## Application 
 Le markdown a plusieurs applications:
 1. Sous forme d'un editeur de texte:
-  - [notion](https://notion.so)
-  - [inkdrop](https://www.inkdrop.app/)
+    - [notion](https://notion.so)
+    - [inkdrop](https://www.inkdrop.app/)
 2. Outil de mise en form des publications:
- - [discord](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-)
- - reddit
+    - [discord](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-)
+    - reddit
 
 ## Evolution
 Depuis sa creation, markdown n'as pas connu d'evolution notable de la part de
