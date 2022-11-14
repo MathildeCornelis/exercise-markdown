@@ -1,11 +1,11 @@
-#MarkDown
+# MarkDown
 
 File for the exercise described in [ReadMe](README.md)
 
-##What is MarkDown?
+## What is MarkDown?
 MarkDown is a markup language (despite its name), created in 2004, designed to be lightweight and easily readable, and used for creating formatted text using a plain text editor. It's widely used, notably on Discord.
 
-##What can MarkDown do?
+## What can MarkDown do?
 
 - text styling such as
   1. **bold**
@@ -18,11 +18,11 @@ MarkDown is a markup language (despite its name), created in 2004, designed to b
 - images (see Examples)
 - code like `git commit` or `<b></b>`
 
-###Examples
+### Examples
 
-####A static image
+#### A static image
 ![Un chat](https://www.larousse.fr/encyclopedie/data/images/1310591-Chat_American_shorthair.jpg)
 
-####An animated image
+#### An animated image
 ![Un gif d'un chat](https://media.tenor.com/DE-LrMdvq_UAAAAC/chat-tout-mou.gif)
 
