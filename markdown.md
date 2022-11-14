@@ -1,6 +1,6 @@
 # Le Markdown
 
-![Logo MarkDown](/Desktop/markdown.png)
+![Logo MarkDown](Users/edoua/Desktop/markdown.png)
 
 -  ## Mais alors qu'est-ce que c'est !?
   
@@ -10,7 +10,7 @@
   <strong> HTML
   ** Markdown ** 
 
-  3. Très utile dans les mileux de la comm, de la pub ou encore dans le journalisme.
+  3. Très utile dans les milieu de la comm, de la pub ou encore dans le journalisme.
 
   Voici un lien si jamais vous souhaitez plus d'info concernant ce langage super utile !
   https://www.ionos.fr/digitalguide/sites-internet/developpement-web/markdown/
@@ -24,7 +24,7 @@
 
  3. Offrir une syntaxe facile à écrire et surtout à lire. Permettant ainsi de mettre en forme son texte sans pur autant devoir connaître l'HTML!
 
-![](/Desktop/giphy.gif)
+![](/Users/edoua/Desktop/giphy.gif)
 
 echo "MarkDown is easier than HTML"
 
