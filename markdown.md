@@ -10,7 +10,7 @@ MarkDown is a markup language (despite its name), created in 2004, designed to b
 - text styling such as
   1. **bold**
   2. *italic*
-  3. ~~trikethrough~~
+  3. ~~strikethrough~~
 - lists
   1. ordered lists
   - and unordered lists
