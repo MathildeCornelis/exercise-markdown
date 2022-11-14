@@ -28,11 +28,12 @@ La syntax de base de mise en page du langage markdown est facile a prendre en ma
 Voici quelque examples:
 
 | Style             | Syntax                               | Rendu                           |
-----------------------------------------------------------------------------------------------
+|-------------------|--------------------------------------|---------------------------------|
 | Italique          | \_Italique\_                         | _Italique_                      |
 | Gras              | \*\*Gras\*\*                         | **Gras**                        |
-| Ligne de code     | \`\`console.log("hello, world");\`\` | ``console.log("hello, world")`` |
+| Ligne de code     | \`\`console.log("hello, world");\`\` | ``console.log("hello, world");`` |
 
 - - -
 Merci! [retour au README](README.md)
+
 ![thank you](./assets/thank-you.gif)
