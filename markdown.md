@@ -25,7 +25,6 @@
 
 ![gifcool](giphy.gif)
 
-echo "MarkDown is easier than HTML"
+echo "MarkDown is easier than HTML" :ok_hand:
 
-Voici la présentation du groupe avec lequel j'ai travaillé sur cet exercice: 
-[README](README.md)
+Voici la présentation du groupe avec lequel j'ai travaillé sur cet exercice avec [lescopains](README.md) !
