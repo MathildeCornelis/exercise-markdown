@@ -1,13 +1,13 @@
 # Le Markdown
 
-![Logo MarkDown](https://en.wikipedia.org/wiki/Markdown#/media/File:Markdown-mark.svg)
+![Logo MarkDown](markdown.png)
 
 -  ## Mais alors qu'est-ce que c'est !?
   
   1. Tout d'abord il s'agit d'un langage de balisage +/- similaire à HTML !
 
   2. A la différence de l'HTML, le MarkDown ne repose pas sur l'usage de balises. 
-   Exemple :<strong> HTML , ** ** MarkDown 
+   Exemple :<strong> </strong> HTML , ** ** MarkDown 
 
   3. Très utile dans les milieu de la comm, de la pub ou encore dans le journalisme.
 
@@ -23,7 +23,7 @@
 
  3. Offrir une syntaxe facile à écrire et surtout à lire. Permettant ainsi de mettre en forme son texte sans pur autant devoir connaître l'HTML!
 
-![gifcool](https://giphy.com/gifs/Friends-friends-episode-22-tv-lrDMG46JjKiovLbkn8)
+![gifcool](giphy.gif)
 
 echo "MarkDown is easier than HTML"
 
