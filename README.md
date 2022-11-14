@@ -14,4 +14,4 @@ Et bien-sûr votre humble serviteur, moi-même https://github.com/Ed0598
 Nous avons travaillé sur cet exercise mi-novembre chacun en TT ! 
 Il s'agit de notre 4ème jour de formation chez @BeCode.
 
-Pour accéder à la presentation du MarkDown [](markdown.md)
+Pour accéder à la presentation du MarkDown [markdown](markdown.md)

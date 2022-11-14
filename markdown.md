@@ -7,8 +7,7 @@
   1. Tout d'abord il s'agit d'un langage de balisage +/- similaire à HTML !
 
   2. A la différence de l'HTML, le MarkDown ne repose pas sur l'usage de balises. 
-  <strong> HTML
-  ** Markdown ** 
+   Exemple :<strong> HTML , ** ** MarkDown 
 
   3. Très utile dans les milieu de la comm, de la pub ou encore dans le journalisme.
 
