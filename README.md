@@ -18,8 +18,8 @@ Create a repository called exercise-markdown, in which you will add two files: R
 - a bit of code
 
 ## Group members:
-- Mathilde Cornelis
-- Arno N. Volts
-- Edouard de Romrée
-- Céline Verreydt
+- [Mathilde Cornelis](https://github.com/MathildeCornelis)
+- [Arno N. Volts](https://github.com/voltsn)
+- [Edouard de Romrée](https://github.com/Ed0598)
+- [Céline Verreydt](https://github.com/CV136)
 
