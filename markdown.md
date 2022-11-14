@@ -14,6 +14,7 @@ MarkDown is a markup language (despite its name), created in 2004, designed to b
 - lists
   1. ordered lists
   - and unordered lists
+- emojis :grinning:
 - links [like to the source used for the MarkDown decription](https://en.wikipedia.org/wiki/Markdown)
 - images (see Examples)
 - code like `git commit` or `<b></b>`
